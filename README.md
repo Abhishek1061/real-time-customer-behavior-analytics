@@ -15,6 +15,7 @@ This repo contains 3 backend microservices:
 - Spring Data JPA
 - H2 (default) and MySQL (optional)
 
+
 ## Project Structure
 
 ```text
